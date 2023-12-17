@@ -1,0 +1,4 @@
+20231217	18:46::31	a07d2c8f-0712-420f-88b0-defec1e08048	/new-page.html	GET
+20231217	18:46::31	c9a64a45-3807-478d-8a27-6cb651f9e406	/css/style.css	GET
+20231217	18:46::31	db38d7b7-f56c-465f-bccd-13fefe6e11f3	/img/img1.jpg	GET
+20231217	18:46::31	440c9c79-6e87-498f-8d42-8e5ab910aaa0	/favicon.ico	GET
